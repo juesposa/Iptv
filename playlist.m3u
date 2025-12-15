@@ -1,1 +1,3 @@
-playlist.m3u
+#EXTM3U
+#EXTINF:-1,Video Archive
+https://archive.org/download/vid-20251213-195207/vid-20251213-195207.mp4
